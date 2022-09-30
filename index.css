@@ -1,0 +1,13 @@
+#parent{
+    display: flex;
+    
+    
+}
+
+#parent>div{
+    font-size: 40px;
+    margin-top: 300px;
+    color: black;
+    
+    
+}
